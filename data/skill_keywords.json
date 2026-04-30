@@ -1,0 +1,42 @@
+{
+  "programming": [
+    "python",
+    "java",
+    "c++",
+    "go",
+    "javascript",
+    "kotlin"
+  ],
+  "backend": [
+    "fastapi",
+    "flask",
+    "spring boot",
+    "rest api",
+    "api",
+    "microservice"
+  ],
+  "ml_ai": [
+    "pytorch",
+    "tensorflow",
+    "machine learning",
+    "deep learning",
+    "nlp",
+    "llm",
+    "scikit-learn"
+  ],
+  "database": [
+    "sql",
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "database"
+  ],
+  "devops": [
+    "docker",
+    "git",
+    "github",
+    "ci/cd",
+    "aws",
+    "cloud"
+  ]
+}
