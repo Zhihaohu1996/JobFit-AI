@@ -1,0 +1,11 @@
+resume_text,job_description,label,role_type
+"I have experience with Python, Flask, SQL, and REST APIs.","We are looking for a backend intern with Python, FastAPI, SQL, and API development experience.",2,"Backend"
+"I know Java, Spring Boot, MySQL, and Git.","Software engineering intern needed with Java, Spring Boot, relational database, and Git experience.",2,"SDE"
+"I have basic Python and data analysis experience with pandas.","AI intern role requiring Python, PyTorch, machine learning, and model deployment experience.",1,"AI/ML"
+"I have experience in customer service and Excel.","Machine learning intern needed with PyTorch, TensorFlow, Python, and deep learning experience.",0,"AI/ML"
+"I built Android apps using Kotlin and Firebase.","Mobile app internship requiring Android, Kotlin, Firebase, and UI development experience.",2,"Mobile"
+"I know Python, pandas, scikit-learn, and basic machine learning.","Data science intern needed with Python, pandas, scikit-learn, model evaluation, and data preprocessing.",2,"Data"
+"I have HTML, CSS, and JavaScript experience.","Frontend intern needed with JavaScript, HTML, CSS, and responsive UI experience.",2,"Frontend"
+"I have Java and object-oriented programming experience.","AI research intern needed with PyTorch, deep learning, NLP, and transformer experience.",0,"AI/ML"
+"I built a FastAPI backend and worked with MySQL.","Backend AI intern needed with Python, FastAPI, SQL, PyTorch model serving, and REST APIs.",1,"Backend AI"
+"I have Python, PyTorch, FastAPI, SQL, and Git experience.","AI software intern needed with PyTorch, Python, API deployment, SQL, and software engineering skills.",2,"AI Software"
