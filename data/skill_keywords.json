@@ -1,0 +1,16 @@
+{
+  "python": ["python"],
+  "fastapi": ["fastapi"],
+  "flask": ["flask"],
+  "pytorch": ["pytorch", "torch", "deep learning"],
+  "tensorflow": ["tensorflow"],
+  "sql": ["sql", "mysql", "postgresql", "database"],
+  "java": ["java", "spring boot"],
+  "javascript": ["javascript", "html", "css", "frontend"],
+  "git": ["git", "github"],
+  "api": ["api", "rest", "restful"],
+  "machine_learning": ["machine learning", "ml", "scikit-learn", "sklearn"],
+  "nlp": ["nlp", "natural language processing", "text processing"],
+  "docker": ["docker", "container"],
+  "linux": ["linux", "unix", "shell", "bash"]
+}

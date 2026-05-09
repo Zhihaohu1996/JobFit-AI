@@ -1,0 +1,11 @@
+resume_text,job_description,label,role_type,resume_skills,job_skills,skill_overlap_score
+"I have experience with Python, Flask, SQL, and REST APIs.","We are looking for a backend intern with Python, FastAPI, SQL, and API development experience.",2,Backend,"api, flask, python, sql","api, fastapi, python, sql",0.75
+"I know Java, Spring Boot, MySQL, and Git.","Software engineering intern needed with Java, Spring Boot, relational database, and Git experience.",2,SDE,"git, java, sql","git, java, sql",1.0
+I have basic Python and data analysis experience with pandas.,"AI intern role requiring Python, PyTorch, machine learning, and model deployment experience.",1,AI/ML,python,"machine_learning, python, pytorch",0.333
+I have experience in customer service and Excel.,"Machine learning intern needed with PyTorch, TensorFlow, Python, and deep learning experience.",0,AI/ML,,"machine_learning, python, pytorch, tensorflow",0.0
+I built Android apps using Kotlin and Firebase.,"Mobile app internship requiring Android, Kotlin, Firebase, and UI development experience.",2,Mobile,,,0.0
+"I know Python, pandas, scikit-learn, and basic machine learning.","Data science intern needed with Python, pandas, scikit-learn, model evaluation, and data preprocessing.",2,Data,"machine_learning, python","machine_learning, python",1.0
+"I have HTML, CSS, and JavaScript experience.","Frontend intern needed with JavaScript, HTML, CSS, and responsive UI experience.",2,Frontend,"java, javascript, machine_learning","java, javascript, machine_learning",1.0
+I have Java and object-oriented programming experience.,"AI research intern needed with PyTorch, deep learning, NLP, and transformer experience.",0,AI/ML,java,"nlp, pytorch",0.0
+I built a FastAPI backend and worked with MySQL.,"Backend AI intern needed with Python, FastAPI, SQL, PyTorch model serving, and REST APIs.",1,Backend AI,"api, fastapi, sql","api, fastapi, python, pytorch, sql",0.6
+"I have Python, PyTorch, FastAPI, SQL, and Git experience.","AI software intern needed with PyTorch, Python, API deployment, SQL, and software engineering skills.",2,AI Software,"api, fastapi, git, python, pytorch, sql","api, python, pytorch, sql",1.0
